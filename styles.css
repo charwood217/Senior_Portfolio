@@ -1,0 +1,12 @@
+html{
+    background-color: black;
+    color: white;
+}
+#mainNav{
+background-color: rgb(87, 86, 86);
+border: 2px blue double;
+padding: 15px;
+}
+.flexcontainer{
+    display: flex; 
+}
